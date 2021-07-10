@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestXQ", "TestXQ\TestXQ.csproj", "{3495A61F-377B-4460-9C65-0DB3A7D13AAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3495A61F-377B-4460-9C65-0DB3A7D13AAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3495A61F-377B-4460-9C65-0DB3A7D13AAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3495A61F-377B-4460-9C65-0DB3A7D13AAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3495A61F-377B-4460-9C65-0DB3A7D13AAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C66DB3F-2317-4A76-85DB-239366BF5890}
+	EndGlobalSection
+EndGlobal
